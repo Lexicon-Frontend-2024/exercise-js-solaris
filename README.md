@@ -63,7 +63,7 @@ Ex.
 ```js
 let resp = await fetch('https://n5n3eiyjb0.execute-api.eu-north-1.amazonaws.com/bodies', {
     method: 'GET',
-    headers: {'x-zocom', '<solaris-key-here>'}
+    headers: {'x-zocom' : '<solaris-key-here>'}
 })
 ```
 
