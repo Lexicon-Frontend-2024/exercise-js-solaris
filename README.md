@@ -108,44 +108,44 @@ let resp = await fetch('https://n5n3eiyjb0.execute-api.eu-north-1.amazonaws.com/
 Your *Public* group repository is to be sent to Jesper on teams no later than 11:59 on 9/8. In the afternoon, some sort of presentation will be conducted (I will provide you with the details later).
 
 ## Groups
-### Group 1
+### Group 1 - https://github.com/IsabellePar/Grupp-1-Solaris
 Andrej,
 Alexandros,
 Arbnor,
 Isabelle
 
-### Group 2
+### Group 2 - https://github.com/marothon/lexicon-solaris
 Max,
-Boel,
+Boel (Avhopp),
 Sara,
 Nunzia
 
-### Group 3
+### Group 3 - https://github.com/Rasmuskrogh/Group-project-Solaris-Lexicon
 Rasmus,
-Sofia,
+Sofia (sjuk, okklart mycket deltagande),
 Jonatan,
 Johan S
 
-### Group 4
+### Group 4 - https://github.com/joelBIT/exercise-js-solaris
 Nino,
 Lovisa,
 Veselin,
 Joel,
 Hektor
 
-### Group 5
+### Group 5 - https://github.com/mikaelalundstrom/exercise-js-solaris
 Johan A,
 Mikalea,
 Yulia,
 Mattias
 
-### Group 6
+### Group 6 - https://github.com/EgrenB3S23/exercise-js-solaris
 Erik,
 Fanny,
 Jessica,
 Anton
 
-### Group 7
+### Group 7 - https://github.com/MikhailovaTatiana/solaris-space-center-app
 Anna,
 Tatiana,
 Michael,
